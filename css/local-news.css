@@ -1,0 +1,155 @@
+.last-news-left {
+    color: #fff;
+  padding: 310px 20px 0;
+  border-radius: 10px;
+  background: -webkit-gradient(
+      linear,
+      180deg from(rgba(61, 148, 150, 0.5)),
+      to(rgba(61, 148, 150, 0.5))
+    ),
+    url("../img/news/last-news.png") no-repeat center center fixed;
+  background: linear-gradient(
+      180deg,
+      rgba(61, 148, 150, 0.5),
+      rgba(61, 148, 150, 0.5)
+    ),
+    url("../img/news/last-news.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 336px;
+  height: 440px;
+}
+.last-news-list {
+  height: 322px;
+  border-radius: 8px;
+}
+.last-news-img--one {
+  background: -webkit-gradient(
+      linear,
+      180deg from(rgba(61, 148, 150, 0.5)),
+      to(rgba(61, 148, 150, 0.5))
+    ),
+    url("../img/news/ln1.png") no-repeat center center fixed;
+  background: linear-gradient(
+      180deg,
+      rgba(61, 148, 150, 0.5),
+      rgba(61, 148, 150, 0.5)
+    ),
+    url("../img/news/ln1.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.last-news-img--two {
+  background: -webkit-gradient(
+      linear,
+      180deg from(rgba(61, 148, 150, 0.5)),
+      to(rgba(61, 148, 150, 0.5))
+    ),
+    url("../img/news/ln2.png") no-repeat center center fixed;
+  background: linear-gradient(
+      180deg,
+      rgba(61, 148, 150, 0.5),
+      rgba(61, 148, 150, 0.5)
+    ),
+    url("../img/news/ln2.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.last-news-img--three {
+  background: -webkit-gradient(
+      linear,
+      180deg from(rgba(61, 148, 150, 0.5)),
+      to(rgba(61, 148, 150, 0.5))
+    ),
+    url("../img/news/ln3.png") no-repeat center center fixed;
+  background: linear-gradient(
+      180deg,
+      rgba(61, 148, 150, 0.5),
+      rgba(61, 148, 150, 0.5)
+    ),
+    url("../img/news/ln3.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.last-news-img--four {
+  background: -webkit-gradient(
+      linear,
+      180deg from(rgba(61, 148, 150, 0.5)),
+      to(rgba(61, 148, 150, 0.5))
+    ),
+    url("../img/news/ln4.png") no-repeat center center fixed;
+  background: linear-gradient(
+      180deg,
+      rgba(61, 148, 150, 0.5),
+      rgba(61, 148, 150, 0.5)
+    ),
+    url("../img/news/ln4.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.news-top-info {
+  padding: 0 10px;
+}
+.blur {
+  color: #8f8f8f;
+}
+.news-top-title {
+  margin: 0;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0.234234px;
+  color: #00264d;
+}
+.news-top-text {
+  margin: 0;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #212121;
+}
+.news-top-link {
+  padding: 10px 30px;
+  border: 1px solid #049555;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #049555;
+}
+.news-top-tag {
+  position: absolute;
+  margin-top: -90px;
+  padding: 15px 27px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  background-color: #049555;
+}
+.header-small {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+  color: #00264d;
+}
+.news-name {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.243562px;
+  color: #00264d;
+}
+.news-paragraph {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #212121;
+}
+.last-news-list{
+    padding: 200px 20px 0;
+    color: #fff;
+}

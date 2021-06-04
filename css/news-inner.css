@@ -1,0 +1,161 @@
+.news-inner-info {
+  display: flex;
+  align-items: center;
+  padding: 66px 0 20px;
+}
+.news-inner-info p {
+  margin: 0;
+  padding: 5px;
+  color: #8f8f8f;
+}
+.news-inner-info img {
+  padding: 10px;
+}
+.news-inner-header {
+  width: 55%;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 47px;
+  letter-spacing: 0.117282px;
+  color: #00264d;
+}
+.news-inner-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 80px;
+}
+.news-inner-left {
+  width: 70%;
+  padding-right: 24px;
+}
+.news-inner-left img {
+  padding-bottom: 10px;
+}
+.news-inner-left-text {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.117282px;
+  color: #212121;
+}
+.news-inner-right-list {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 40px;
+  list-style-type: none;
+}
+.news-inner-right-item {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 28px;
+}
+.news-inner-right-img {
+  padding-right: 24px;
+}
+.news-inner-right-name {
+  margin: 0;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: 0.117282px;
+  color: #00264d;
+}
+.news-inner-right-link {
+  padding: 20px 200px;
+  border: 1px solid #ccc;
+  font-weight: 500;
+  font-size: 18.7651px;
+  line-height: 28px;
+  letter-spacing: 0.117282px;
+  color: #3d3d3d;
+}
+
+.leaders {
+  padding: 80px 0 330px;
+}
+.leaders-header {
+  margin: 0;
+  padding-bottom: 40px;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+  color: #00264d;
+}
+.leader-box {
+  background-color: #fff;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+.leader-name {
+  margin: 0;
+  padding: 15px 0 4px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #00264d;
+}
+.leader-email {
+  margin: 0;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #049555;
+}
+.leader-text {
+  padding-top: 16px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #8f8f8f;
+}
+
+.contacts {
+  padding: 60px 0 118px;
+}
+.contacts-box {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.contacts-header {
+  margin: 0;
+  padding-bottom: 1rem;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  color: #16175b;
+}
+.contacts-text {
+  max-width: 700px;
+  margin: 0;
+  padding-bottom: 120px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #49516d;
+}
+.contacts-bold {
+  padding-bottom: 1rem;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  color: #16175b;
+}
+.contacts-num {
+  margin: 0; 
+  padding-bottom: 12px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.04em;
+  color: #2c3136;
+}
+.contacts-email {
+  padding-top: 80px;
+}
+.contacts-date {
+  padding-top: 60px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #525666;
+}
